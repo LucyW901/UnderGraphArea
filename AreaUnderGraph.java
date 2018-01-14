@@ -1,5 +1,4 @@
-//Lucy Wu 
-//May 2016
+//Lucy Wu
 // The "AreaUnderGraph" class.
 import java.io.*;
 import java.awt.*;
